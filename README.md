@@ -8,7 +8,7 @@ Effortlessly download your favorite content from Fansly with just one click.
 - **Batch Download Capability**: Efficiently retrieve all media from your active subscriptions in bulk.
 
 ## How It Works?
-Install the Extension via `https://bit.ly/fanslydl`
+[Install the Extension] (https://bit.ly/fanslydl)
 1. Navigate to your Fansly account on `fansly.com` as you normally would.
 2. Click on the application icon located at the top right corner.
 3. Select the creator whose content you wish to export.
